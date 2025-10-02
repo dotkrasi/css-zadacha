@@ -1,0 +1,32 @@
+p {border: 1px black solid;}
+.p {border: 1px purple solid;}
+#p {border: 1px red solid;}
+
+.heading-one {color: purple; font-size:32px;}
+.heading-two {font-weight: bold; text-align: center;}
+.p-one {font-size: 20px;color: red;}
+.p-two{font-size: 20px; line-height: 1.5;}
+.p-three {text-transform: uppercase;}
+.p-four {letter-spacing: 2px;}
+.p-five {font-style: italic;}
+.span-one {background-color: yellow;}
+.div-one {padding: 20px; background-color: lightgray;}
+.div-two {margin: 30px; border: 2px black;}
+.a-one {color: green; text-decoration: none;}
+.button-one{background-color: blue; color: white;}
+.li1 {padding: 10px; }
+.li2 {list-style-type: square; }
+.li3 { font-size: 18px;}
+.li-one {margin-left: 20px;}
+.li-two {font-weight: bold;}
+.li-three {color: purple;}
+.p-six {width: 150px; border-radius: 50%;}
+.tableheader-one {background-color: gray;}
+.tableheader-two {padding: 10px;}
+.tabledatacell-one {border: 1px solid black;}
+.tabledatacell-two {text-align: center;}
+.section-one {background-color: lightblue; padding: 20px;}
+.article-one {margin: 40px; text-align: justify;}
+.form-one{margin-top: 20px; padding: 10px ;}
+.text-one {border: 1px dashed blue }
+.footer-one {font-size: 14px; text-align: center;}
